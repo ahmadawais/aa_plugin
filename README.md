@@ -1,4 +1,6 @@
 ## What is it?
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/aa_plugin.svg)](https://greenkeeper.io/)
 `aa_plugin` is a simple WordPress plugin boilerplate with advanced Gulp workflow.
 
 ### How to use it?
